@@ -1,5 +1,6 @@
 # Create-Astralyte
 Here you can find all the code for the mod Create: Astralyte!
+Go to master for the entire code
 
 ## License
 
