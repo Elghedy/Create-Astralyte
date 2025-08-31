@@ -1,0 +1,21 @@
+{
+  "item.astralytemod.raw_astralyte": "Raw Astralyte",
+  "item.astralytemod.astralyte_ingot": "Astralyte Ingot",
+
+  "item.astralytemod.astralyte_pickaxe": "Astralyte Pickaxe",
+  "item.astralytemod.astralyte_sword": "Astralyte Sword",
+  "item.astralytemod.astralyte_shovel": "Astralyte Shovel",
+  "item.astralytemod.astralyte_hoe": "Astralyte Hoe",
+  "item.astralytemod.astralyte_axe": "Astralyte Axe",
+
+  "item.astralytemod.astralyte_helmet": "Astralyte Helmet",
+  "item.astralytemod.astralyte_chestplate": "Astralyte Chestplate",
+  "item.astralytemod.astralyte_leggings": "Astralyte Leggings",
+  "item.astralytemod.astralyte_boots": "Astralyte Boots",
+
+  "block.astralytemod.astralyte_ore": "Astralyte Ore",
+  "block.astralytemod.astralyte_block": "Astralyte Block",
+  "block.astralytemod.raw_astralyte_block": "Block Of Raw Astralyte",
+
+  "creativetab.tutorial_tab": "Create: Astralyte!"
+}

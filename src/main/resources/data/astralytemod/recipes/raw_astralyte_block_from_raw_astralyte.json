@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "astralytemod:raw_astralyte"
+    }
+  },
+  "result": {
+    "item": "astralytemod:raw_astralyte_block"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "astralytemod:block/raw_astralyte_block"
+    }
+  }
+}

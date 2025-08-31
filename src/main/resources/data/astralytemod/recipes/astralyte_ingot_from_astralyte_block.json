@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "astralytemod:astralyte_block"
+    }
+  ],
+  "result": {
+    "item": "astralytemod:astralyte_ingot",
+    "count": 9
+  }
+}
